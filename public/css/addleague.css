@@ -1,0 +1,71 @@
+.add-league{
+    width: 50%;
+    margin: auto;
+    padding:20px;
+    border:1px solid #ddd;
+    margin-top: 10%;
+    border-radius: 3px;
+}
+
+.add-deal .panel-default>.panel-heading {
+    color: #333;
+    background-color: #fff;
+}
+.center-align{
+    overflow: hidden;
+    width: 52%;
+    margin: 0 auto;
+}
+.add-league-btn{
+    padding-top: 10px;
+}
+.add-deal .btn-success.active.focus,.add-deal .btn-success.active:focus,.add-deal .btn-success.active:hover,.add-deal  .btn-success:active.focus,.add-deal .btn-success:active:focus,.add-deal .btn-success:active:hover,.add-deal .open>.dropdown-toggle.btn-success.focus,.add-deal .open>.dropdown-toggle.btn-success:focus,.add-deal .open>.dropdown-toggle.btn-success:hover {
+    color: #fff;
+    background-color: #10bb97;
+    border-color: #10bb97;
+}
+.add-deal .btn-success,.add-team .btn-success{
+    color: #fff;
+    background-color: #10bb97;
+    border-color: #10bb97;
+}
+.league-table{
+    margin-bottom: 0px;
+}
+.bg-yellow, .callout.callout-warning, .alert-warning, .label-warning, .modal-warning .modal-body {
+    background-color: #d94352 !important;
+}
+.add-team .form-group,.center-align .form-group{
+    overflow: hidden;
+}
+.remove-padding{
+    padding: 0px;
+}
+
+/*file upload*/
+
+.image-preview-input {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+.image-preview-input input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+    margin-left:2px;
+}
+.hide{
+    display: none;
+}

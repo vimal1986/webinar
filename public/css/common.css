@@ -1,0 +1,112 @@
+.breadcrum-customize{
+    margin-bottom: 6px;
+    background-color: rgba(245, 245, 245, 0);
+    margin-top: 6px;
+}
+.breadcrum-color{
+    color: #10bb97;
+}
+.side-bar-color{
+
+}
+.custome-sidebar{
+    background-color: #10bb97 !important;
+}
+.skin-blue .fanlyfe-menu > li:hover > a, .skin-blue .fanlyfe-menu > li.active > a {
+    color: #ffffff;
+    background: #10bb97;
+    border-left-color: #10bb97;
+}
+.skin-blue .fanlyfe-menu > li > .treeview-menu {
+    margin: 0 1px;
+    background: #0cac8a;
+}
+.treeview span{
+    color:#ffffff;
+}
+.skin-blue .treeview-menu > li > a,.font-color{
+    color: #fff;
+}
+.skin-blue .fanlyfe .navbar{
+    background-color: #fff !important;
+}
+.skin-blue .fanlyfe .navbar .sidebar-toggle {
+    color: #313131;
+}
+.skin-blue .fanlyfe .navbar .sidebar-toggle:hover {
+    background-color: #fff;
+    color: #313131;
+}
+.skin-blue .fanlyfe .navbar .nav > li > a {
+    color: #313131;
+}
+.skin-blue .fanlyfe .navbar .nav > li > a:hover, .skin-blue .fanlyfe .navbar .nav > li > a:active, .skin-blue .fanlyfe .navbar .nav > li > a:focus, .skin-blue .fanlyfe .navbar .nav .open > a, .skin-blue .fanlyfe .navbar .nav .open > a:hover, .skin-blue .fanlyfe .navbar .nav .open > a:focus, .skin-blue .fanlyfe .navbar .nav > .active > a {
+    background: rgba(0, 0, 0, 0.15);
+    color: #313131;
+}
+.skin-blue .fanlyfe li.user-header {
+    background-color: #10bb97;
+}
+.fanlye-img{
+    margin-top: -52px;
+}
+.active-class{
+    background-color:#0cac8a !important;
+}
+.fanlyfe img{
+   width: 26%;
+}
+.main-footer p{
+    margin-bottom: 0px;
+}
+.main-footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+.data-table{
+    margin-bottom: 58px;
+}
+@media only screen and (max-width: 600px)  {
+    .add-league-table{
+        overflow-x: scroll;
+    }
+}
+div.treeview.active{
+    background-color: #0cac8a;
+}
+.add-team h3{
+    margin: 0px;
+}
+.fanlyfe .notifications-menu,.fanlyfe .dropdown-toggle{
+    top:5px;
+}
+.user-menu,.dropdown-menu{
+    /*width: 160px !important;*/
+}
+.setting{
+    padding-bottom:10px ;
+}
+.btn-width{
+    width: 115px;
+}
+.user-footer{
+    background-color: #10bb97 !important;
+}
+.skin-blue .main-header .logo {
+    background-color: #10bb97 !important;
+    color: #ffffff !important;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #10bb97;
+}
+.skin-blue .main-header .navbar .sidebar-toggle {
+    color: #313131;
+}
+.notifications-menu .dropdown-toggle{
+    margin-top: -8px;
+}
+.error-msg{
+    color: red;
+}

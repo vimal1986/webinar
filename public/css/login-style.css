@@ -1,0 +1,31 @@
+.outer{
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #ffffff
+}
+.middle{
+    display: table-cell;
+    vertical-align: middle;
+}
+.middle-align{
+    margin: 0 auto;
+    width: 94%;
+    max-width: 401px;
+}
+.logo img{
+    margin-bottom: 20px;
+}
+.btn-link{
+    text-align: center;
+    font-size: 11px;
+    display: block;
+    padding-top: 5px;
+}
+.body{
+    margin-top: 0px;
+}
+.reset .form-group:last-child{
+   margin-bottom: 0px;
+}

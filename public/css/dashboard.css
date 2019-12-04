@@ -1,0 +1,138 @@
+.team-of-board p,.number-of-deal p,.convension-rate p,.deals-grid p{
+    margin: 0px;
+}
+.left-float{
+    float: left;
+}
+.right-float{
+    float: right;
+}
+.show-div{
+    overflow: hidden;
+    background: #ffffff;
+    padding: 10px 10px;
+}
+.right-float .fa-user{
+    font-size: 26px;
+    top: 8px;
+    position: relative;
+    color: #e81d62;
+}
+.statistics-team-board{
+     font-size: 20px;
+     color: #e81d62;
+}
+.statistics-number-of-deal{
+    font-size: 20px;
+    color: #04978a;
+}
+.convension-rate .fa-bar-chart{
+    font-size: 26px;
+    top: 8px;
+    position: relative;
+    color: #fd5923;
+}
+.statistics-convention{
+    color: #fd5923;
+    font-size: 20px;
+}
+.statistics-unboxing{
+    font-size: 20px;
+    color: #00bad4;
+}
+.right-float .fa-align-justify{
+    font-size: 26px;
+    top: 8px;
+    position: relative;
+    color: #00bad4;
+}
+.right-float .fa-object-group{
+    font-size: 26px;
+    top: 8px;
+    position: relative;
+    color: #04978a;
+}
+.bottom-padding{
+    padding-bottom: 20px;
+}
+.recent-border #example{
+    margin-bottom: 0px;
+}
+.view-all{
+    float: right;
+}
+.recent-border .panel-heading,.recent-fan{
+  font-weight: bold;
+}
+.item-images img{
+    width: 90%;
+    max-width: 72px;
+    height: 66px;
+}
+.item-description{
+    padding-top: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.deals-grid{
+    border: 1px solid #dddddd;
+    padding: 20px 10px;
+}
+.item-price{
+    color: #fe9c84;
+}
+#fanDeals{
+    position: relative;
+    padding-bottom: 6px;
+
+}
+#fanDeals .carousel-indicators {
+    bottom: -30px;
+    /* border: red; */
+}
+.carousel-indicators .active {
+    background-color: #4ad1b0;
+}
+.carousel-indicators li {
+    background-color: rgba(0, 0, 0, 0.31);
+}
+.recent-fan-deals{
+    overflow: hidden;
+}
+.recent-fan-deals i{
+    padding-left: 10px;
+}
+.onboarding-person ul{
+    margin-left: 0px;
+    list-style: none;
+}
+.onboarding-person img{
+    width: 30px;
+}
+.onboarding-person ul{
+    padding-left: 0px;
+}
+.onboarding-person li{
+    padding: 10px 0px 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+.recent-border .panel-default{
+    margin-bottom: 0px;
+}
+.onboarding-person{
+    max-height:219px;
+    overflow-y: scroll;
+}
+.recent-fan-deals .panel-default{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.visitor-report{
+    padding-bottom: 35px;
+}
+@media only screen and (max-width : 768px){
+    .on-boarding{
+        margin-top: 22px;
+    }
+}
